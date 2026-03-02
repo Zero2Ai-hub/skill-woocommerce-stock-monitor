@@ -1,0 +1,4 @@
+config/internal.md
+memory/
+node_modules/
+*.log

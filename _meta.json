@@ -1,0 +1,7 @@
+{
+  "name": "skill-woocommerce-stock-monitor",
+  "version": "1.0.0",
+  "description": "Monitor WooCommerce products for out-of-stock changes and send Telegram alerts. Run daily via cron.",
+  "author": "Zero2Ai-hub",
+  "license": "MIT"
+}
